@@ -470,9 +470,3 @@ Some are:
 - Set operators: UNION, UNION ALL, INTERSECT, EXCEPT
 - Query constructs: PIVOT, UNPIVOT, APPLY
 - Constraints: PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK, etc.
-
-
-
-
-
-	ghfbnwbd
