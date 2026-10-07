@@ -1,0 +1,24 @@
+SCOTT/TIGER
+CL SCR
+SET PAGES 1000 LINES 1000
+
+
+SELECT 
+   retrieve data/ SHOE THE OUT PUT
+   
+*
+   all columns / ALL DATA IT WILL SHOW 
+   
+;
+   tells the SQL engine that the query is complete./ Separates multiple SQL statements.
+   
+SELECT * 
+FROM EMP;
+    FOR SEE THE PREDEFINE TABLE FROM THE DATABASE
+SELECT COLUMN_NAME 
+FROM EMP;   
+
+SELECT COLUMN_NAME, COLUMN_NAME2 
+FROM EMP;
+    IT WILL SHOW EXTRACT COLUMN FROM TABLE	
+	
